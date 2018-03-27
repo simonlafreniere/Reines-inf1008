@@ -1,0 +1,15 @@
+C:\Users\lafrensi\Desktop\Nouveau dossier\Reines\Reines\bin\Debug\Reines.exe.config
+C:\Users\lafrensi\Desktop\Nouveau dossier\Reines\Reines\bin\Debug\Reines.exe
+C:\Users\lafrensi\Desktop\Nouveau dossier\Reines\Reines\bin\Debug\Reines.pdb
+C:\Users\lafrensi\Desktop\Nouveau dossier\Reines\Reines\obj\Debug\Reines.csprojResolveAssemblyReference.cache
+C:\Users\lafrensi\Desktop\Nouveau dossier\Reines\Reines\obj\Debug\MainWindow.g.cs
+C:\Users\lafrensi\Desktop\Nouveau dossier\Reines\Reines\obj\Debug\App.g.cs
+C:\Users\lafrensi\Desktop\Nouveau dossier\Reines\Reines\obj\Debug\Reines_MarkupCompile.cache
+C:\Users\lafrensi\Desktop\Nouveau dossier\Reines\Reines\obj\Debug\Reines_MarkupCompile.lref
+C:\Users\lafrensi\Desktop\Nouveau dossier\Reines\Reines\obj\Debug\MainWindow.baml
+C:\Users\lafrensi\Desktop\Nouveau dossier\Reines\Reines\obj\Debug\Reines.g.resources
+C:\Users\lafrensi\Desktop\Nouveau dossier\Reines\Reines\obj\Debug\Reines.Properties.Resources.resources
+C:\Users\lafrensi\Desktop\Nouveau dossier\Reines\Reines\obj\Debug\Reines.csproj.GenerateResource.Cache
+C:\Users\lafrensi\Desktop\Nouveau dossier\Reines\Reines\obj\Debug\Reines.csproj.CoreCompileInputs.cache
+C:\Users\lafrensi\Desktop\Nouveau dossier\Reines\Reines\obj\Debug\Reines.exe
+C:\Users\lafrensi\Desktop\Nouveau dossier\Reines\Reines\obj\Debug\Reines.pdb
