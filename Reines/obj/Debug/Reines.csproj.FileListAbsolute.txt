@@ -13,3 +13,18 @@ C:\Users\lafrensi\Desktop\Nouveau dossier\Reines\Reines\obj\Debug\Reines.csproj.
 C:\Users\lafrensi\Desktop\Nouveau dossier\Reines\Reines\obj\Debug\Reines.csproj.CoreCompileInputs.cache
 C:\Users\lafrensi\Desktop\Nouveau dossier\Reines\Reines\obj\Debug\Reines.exe
 C:\Users\lafrensi\Desktop\Nouveau dossier\Reines\Reines\obj\Debug\Reines.pdb
+S:\cours\inf1008\reines-inf1008\Reines\bin\Debug\Reines.exe.config
+S:\cours\inf1008\reines-inf1008\Reines\bin\Debug\Reines.exe
+S:\cours\inf1008\reines-inf1008\Reines\bin\Debug\Reines.pdb
+S:\cours\inf1008\reines-inf1008\Reines\obj\Debug\Reines.csprojResolveAssemblyReference.cache
+S:\cours\inf1008\reines-inf1008\Reines\obj\Debug\MainWindow.g.cs
+S:\cours\inf1008\reines-inf1008\Reines\obj\Debug\App.g.cs
+S:\cours\inf1008\reines-inf1008\Reines\obj\Debug\Reines_MarkupCompile.cache
+S:\cours\inf1008\reines-inf1008\Reines\obj\Debug\Reines_MarkupCompile.lref
+S:\cours\inf1008\reines-inf1008\Reines\obj\Debug\MainWindow.baml
+S:\cours\inf1008\reines-inf1008\Reines\obj\Debug\Reines.g.resources
+S:\cours\inf1008\reines-inf1008\Reines\obj\Debug\Reines.Properties.Resources.resources
+S:\cours\inf1008\reines-inf1008\Reines\obj\Debug\Reines.csproj.GenerateResource.Cache
+S:\cours\inf1008\reines-inf1008\Reines\obj\Debug\Reines.csproj.CoreCompileInputs.cache
+S:\cours\inf1008\reines-inf1008\Reines\obj\Debug\Reines.exe
+S:\cours\inf1008\reines-inf1008\Reines\obj\Debug\Reines.pdb
