@@ -27,7 +27,7 @@ namespace Reines
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-
+           CReines mesReines = new CReines();
         }
     }
 }
